@@ -1,5 +1,6 @@
 /*
 Example lesson stub
+some change
 */
 SELECT   ps.PatientId,
          ps.AdmittedDate,
